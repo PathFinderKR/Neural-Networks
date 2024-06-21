@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="micrograd-env" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="neural-networks" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="torch-env" project-jdk-type="Python SDK" />
 </project>
